@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RLCraft-ABGw.aternos.me:29663",
+    "port": 29663,
     "version": "",
     "try-creative": false
   },
