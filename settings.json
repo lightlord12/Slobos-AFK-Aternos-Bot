@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "loser12321.aternos.me:13426",
+    "ip": "loser12321.aternos.me",
     "port": 13426,
     "version": "",
     "try-creative": false
